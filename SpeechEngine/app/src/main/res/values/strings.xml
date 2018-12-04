@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SpeechEngine</string>
+    <string name="displayCalendar">Display Calendar</string>
+</resources>
